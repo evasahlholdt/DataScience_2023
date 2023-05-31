@@ -1,7 +1,6 @@
 # Data Science Exam 2023
 Eva Sahlholdt Hansen(201805908) and Liv Tollånes (201905665)
 
-<!-- Contents of this repository -->
 Repository for the exam in Data Science at the Cognitive Science master at Aarhus University, 2023. Collaborators include Eva Sahlholdt Hansen and Liv Tollånes.
 
 - "Finished report.pdf" contains the full exam report. 
