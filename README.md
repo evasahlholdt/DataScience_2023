@@ -1,4 +1,4 @@
-# Datascience Exam 2023
+# Data Science Exam 2023
 Repository for the exam in Data Science at the Cognitive Science master at Aarhus University, 2023. Collaborators include Eva Sahlholdt Hansen and Liv Tollånes.
 
 - "Finished report.pdf" contains the full exam report. 
