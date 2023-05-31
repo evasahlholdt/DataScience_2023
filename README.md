@@ -1,5 +1,5 @@
 # datascienceexam
-Repo for the exam in Data Science at the Cognitive Science master at Aarhus University.
+Repository for the exam in Data Science at the Cognitive Science master at Aarhus University, 2023. Collaborators include Eva Sahlholdt Hansen and Liv Tollånes.
 
 - "Finished report.pdf" contains the full exam report. 
 - "Life-expectancy.csv" contains the raw data, which consists of 257 series of life expectancies as yearly estimates.
