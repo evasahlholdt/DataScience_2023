@@ -1,8 +1,8 @@
 # Data Science Exam 2023
-Eva Sahlholdt Hansen(201805908) and Liv Tollånes (201905665)
+This repository contains the code and paper produced for the exam in Data Science at the Cognitive Science master at Aarhus University,spring 2023.
+Collaborators include Eva Sahlholdt Hansen(201805908) and Liv Tollånes (201905665)
 
-Repository for the exam in Data Science at the Cognitive Science master at Aarhus University, 2023. Collaborators include Eva Sahlholdt Hansen and Liv Tollånes.
-
+### Files in this repository
 - "Finished report.pdf" contains the full exam report. 
 - "Life-expectancy.csv" contains the raw data, which consists of 257 series of life expectancies as yearly estimates.
 - "local_methods.ipynb" contains preprocessing, EDA, and fitting of local methods (Naive Drift, Exponential Smoothing, and ARIMA) for a given dataset of univariate time series. 
